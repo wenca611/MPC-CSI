@@ -20,6 +20,7 @@ nebo jde kdykoliv v programu napsat 'h', 'help', 't', 'tut' nebo 'tutorial' pro 
 ## Uvítání a Grafy
 Uvítání:
 # ![Uvítání](images/uvitani.png)
+### Ukázka grafů:
 3D graf teplot za posledních 5 let pro všechny kraje:
 # ![Graf1](images/graf1.png)
 2D graf srážek za roky 2000-2010, pro zvolené 3 kraje:
