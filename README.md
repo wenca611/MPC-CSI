@@ -1,6 +1,6 @@
 # MPC-CSI
 * Číslicové signály a systémy
-* Statistické zpracování dat - Analýza meteorologických dat na území ČR
+* Projekt: Statistické zpracování dat - Analýza meteorologických dat na území ČR
 
 ## Finální projekt (body 10/10):
 * [Hlavní skript](main.py)
