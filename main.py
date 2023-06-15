@@ -57,7 +57,7 @@ except Exception as e:
     exit(1)
 
 DEBUG_PRINT = False  # If True, print more information about the operations performed.
-DEBUG_SKIP = True  # If True, skip parts for loading data into the loop to draw graphs.
+DEBUG_SKIP = False  # If True, skip parts for loading data into the loop to draw graphs.
 
 
 class JumpException(Exception):
