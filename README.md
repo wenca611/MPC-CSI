@@ -16,3 +16,7 @@ Program nabízí možnost pracovat v režimu online nebo offline, s možností p
 ## Interakce
 Interakce probíhá v terminálu až do vykreslení grafů. Podrobně je popsána interakce v [dokumentaci](dokumentace.pdf)
 nebo jde kdykoliv v programu napsat 'h', 'help', 't', 'tut' nebo 'tutorial' pro výpis nápovědy.
+
+## Grafy
+# ![Obrázky](images/1.jpg)
+
