@@ -18,6 +18,15 @@ Interakce probíhá v terminálu až do vykreslení grafů. Podrobně je popsán
 nebo jde kdykoliv v programu napsat 'h', 'help', 't', 'tut' nebo 'tutorial' pro výpis nápovědy.
 
 ## Uvítání a Grafy
+Uvítání:
 # ![Uvítání](images/uvitani.png)
+3D graf teplot za posledních 5 let pro všechny kraje:
 # ![Graf1](images/graf1.png)
-
+2D graf srážek za roky 2000-2010, pro zvolené 3 kraje:
+# ![Graf2](images/graf2.png)
+3D graf spektra teplot za posledních 5 let pro všechny kraje:
+# ![Graf3](images/graf3.png)
+Boxplot srážek za roky 2000-2022 pro všechny kraje:
+# ![Graf4](images/graf4.png)
+Korelace srážek za roky 2000-2022 pro Jihomoravský a Zlínský kraj:
+# ![Graf5](images/graf5.png)
