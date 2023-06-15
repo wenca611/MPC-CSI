@@ -36,7 +36,7 @@ Korelace srážek za roky 2000-2022 pro Jihomoravský a Zlínský kraj:
 Při použití skriptu na analýzu a vizualizaci meteorologických dat je důležité mít na paměti, že tato
 data jsou pod licencí CC BY-NC-ND 3.0 CZ. To znamená, že je nezbytné uvést původ dat, nepoužívat je
 pro komerční účely a nezasahovat do díla, podrobnější informace lze nalézt na adrese:
-[licence](https://creativecommons.org/licenses/by-nc-nd/3.0/cz/).
+[https://creativecommons.org/licenses/by-nc-nd/3.0/cz/](https://creativecommons.org/licenses/by-nc-nd/3.0/cz/).
 
 V celém skriptu používám typing, což umožňuje lepší odhalení chyb v kódu a zvýšení jeho čitelnosti.
 Během testování byla funkčnost skriptu pečlivě ověřena a byly ošetřeny všechny možné chybové
